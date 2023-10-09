@@ -40,7 +40,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Internship
-          company: 
+          company: Shengli Oilfield, Sinopec
           company_url: ''
           company_logo:
           location: Shanghai

@@ -39,27 +39,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: CITIC Securities
-          company_url: 'https://www.zts.com.cn/'
+        - title: Internship
+          company: 
+          company_url: ''
           company_logo:
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Shanghai
+          date_start: '2023-07'
+          date_end: '2023-08'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Data processing
+              * Data analysis
+        - title: Internship
+          company: CITIC Securities
+          company_url: 'https://www.zts.com.cn/'
+          company_logo: 
+          location: Dongying City, Shandong Province
+          date_start: '2022-08'
+          date_end: '2023-03'
+          description: System Operation and Maintenance.
 
     design:
       columns: '2'

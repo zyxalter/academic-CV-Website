@@ -40,9 +40,9 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
+          company: CITIC Securities
+          company_url: 'https://www.zts.com.cn/'
+          company_logo:
           location: California
           date_start: '2021-01-01'
           date_end: ''
@@ -91,16 +91,6 @@ sections:
         {{< gallery album="demo" >}}
 
     design:
-      columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
       columns: '2'
       view: card
   - block: collection
@@ -136,7 +126,7 @@ sections:
       office_hours:
         - '8:00 to 22:00'
       contact_links:
-        - icon: wechat
+        - icon: weixin
           icon_pack: fab
           name: zyx_alter
 

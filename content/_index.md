@@ -60,13 +60,13 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
-    content:
+
      
     design:
       columns: '2'
   - block: collection
     id: posts
-    content:
+
  
 
     design:

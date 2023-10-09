@@ -87,7 +87,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="demo2" >}}
 
     design:
       columns: '2'

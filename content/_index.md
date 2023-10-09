@@ -42,6 +42,7 @@ sections:
         - title: Internship
           company: Shengli Oilfield, Sinopec
           company_url: 'http://slof.sinopec.com/slof/about_us/'
+          company_logo: org-x
           location: Dongying City, Shandong Province
           date_start: '2021-08'
           date_end: '2023-01'
@@ -53,6 +54,7 @@ sections:
         - title: Internship
           company: CITIC Securities
           company_url: 'https://www.zts.com.cn/'
+          company_logo: org-x
           location: Shanghai
           date_start: '2023-07'
           date_end: '2023-08'

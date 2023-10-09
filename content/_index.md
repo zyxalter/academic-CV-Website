@@ -49,17 +49,16 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Data processing
+              * Data analysis
         - title: Professor of Semiconductor Physics
-          company: University X
+          company: CITIC Securities
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Shanghai
+          date_start: '2023-07-01'
+          date_end: '2023-08-01'
+          description: System Operation and Maintenance.
 
     design:
       columns: '2'

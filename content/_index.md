@@ -130,4 +130,3 @@ sections:
     design:
       columns: '2'
 ---
----

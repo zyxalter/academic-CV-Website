@@ -90,13 +90,6 @@ sections:
       text: |-
         {{< gallery album="demo2" >}}
 
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
-
 
 
     design:

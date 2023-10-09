@@ -161,16 +161,7 @@ sections:
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
-    design:
-      columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
+
     design:
       columns: '2'
       view: card
@@ -185,22 +176,8 @@ sections:
         folders:
           - publication
         exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
+
+
     design:
       columns: '2'
   - block: contact

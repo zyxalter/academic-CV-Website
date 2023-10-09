@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 周宇新 Yuxin ZHou
+title: 周宇新 Yuxin Zhou
 
 # Full name (for SEO)
 first_name: Yuxin
-last_name: ZHou
+last_name: Zhou
 
 # Status emoji
 status:
@@ -42,7 +42,7 @@ education:
     - course: MEng in Information Technology
       institution: The University of New South Wales
       year: 2020 - 2022
-    - course: BSc in New Energy Materials and Devices
+    - course: BSc in New Energy Materials
       institution: Southeast University (Nanjing)
       year: 2015 - 2020
 
@@ -72,6 +72,6 @@ email: ''
 highlight_name: true
 ---
 
-Zhou Yuxin is a Ph.D. candidate at the SCIR (Research Center for Social Computing and Information Retrieval), Harbin Institute of Technology. 
+Yuxin Zhou is a Ph.D. candidate at the SCIR (Research Center for Social Computing and Information Retrieval), Harbin Institute of Technology. 
 His research interests encompass Reasoning and Large Language Model Design, Training, and Adaptation. He is currently conducting research at a laboratory in Beijing.
 {style="text-align: justify;"}

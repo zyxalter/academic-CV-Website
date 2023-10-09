@@ -61,10 +61,20 @@ sections:
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
 
-     design:
+    design:
       columns: '2'
   - block: accomplishments
     content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 
     design:

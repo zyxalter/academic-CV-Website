@@ -20,6 +20,8 @@ role: PhD Student
 organizations:
   - name: Harbin Institute of Technology
     url: http://www.hit.edu.cn/
+  - name: Research Center for Social Computing and Information Retrieval(SCIR)
+    url: http://ir.hit.edu.cn/
 
 
 # Short bio (displayed in user profile at end of posts)

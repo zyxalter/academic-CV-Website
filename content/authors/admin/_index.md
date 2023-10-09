@@ -21,9 +21,6 @@ organizations:
   - name: Harbin Institute of Technology
     url: http://www.hit.edu.cn/
 
-organizations:
-  - name: Harbin Institute of Technology
-    url: http://www.hit.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

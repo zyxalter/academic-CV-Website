@@ -3,8 +3,8 @@
 title: 周宇新 Yuxin ZHou
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Yuxin
+last_name: ZHou
 
 # Status emoji
 status:
@@ -14,12 +14,16 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Harbin Institute of Technology
+    url: http://www.hit.edu.cn/
+
+organizations:
+  - name: Harbin Institute of Technology
+    url: http://www.hit.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

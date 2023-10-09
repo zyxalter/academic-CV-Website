@@ -54,7 +54,7 @@ sections:
         - title: Professor of Semiconductor Physics
           company: CITIC Securities
           company_url: ''
-          company_logo: org-x
+          company_logo: 
           location: Shanghai
           date_start: '2023-07-01'
           date_end: '2023-08-01'

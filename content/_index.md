@@ -23,10 +23,7 @@ sections:
           description: 80%
           icon: chart-line
           icon_pack: fas
-        - name: Soccer
-          description: 10%
-          icon: futbol
-          icon_pack: fas
+
         - name: LOL
           description: Gold
           icon: LOL

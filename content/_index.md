@@ -123,6 +123,7 @@ sections:
       address:
         street: 海淀区银桦路58号院2号楼
         city: 北京市
+        postcode: '100086'
         country: 中国
         country_code: CN
       office_hours:

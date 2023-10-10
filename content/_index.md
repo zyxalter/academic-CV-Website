@@ -29,7 +29,7 @@ sections:
           icon_pack: fas
         - name: LOL
           description: Gold
-          icon: LOL2
+          icon: LOL
           icon_pack: custom
   - block: experience
     id: Experience

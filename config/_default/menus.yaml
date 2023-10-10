@@ -10,6 +10,12 @@ main:
   - name: Experience
     url: '#Experience'
     weight: 50
+  - name: Gallery
+    url: '#Gallery'
+    weight: 50
+  - name: Publications
+    url: '#Publications'
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60

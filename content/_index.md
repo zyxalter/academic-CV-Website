@@ -28,6 +28,7 @@ sections:
           icon: futbol
           icon_pack: fas
   - block: experience
+    id: Experience
     content:
       title: Experience
       # Date format for experience
@@ -83,6 +84,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
+    id: Gallery
     content:
       title: Gallery
       subtitle: ''
@@ -93,6 +95,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: Publications
     content:
       title: Recent Publications
       text: |-

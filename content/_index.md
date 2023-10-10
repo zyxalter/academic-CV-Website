@@ -26,7 +26,7 @@ sections:
         - name: Soccer
           description: noob
           icon: futbol
-          icon_pack: fab
+          icon_pack: fas
         - name: LOL
           description: Gold
           icon: LOL
